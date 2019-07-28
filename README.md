@@ -1,4 +1,4 @@
-# ComputerEngineering
+# Computer Engineering UNIPD
 Lecture Notes, Synopsis, ... from the Computer Engineering BS at University of Padua
 
 ## Operative Systems
