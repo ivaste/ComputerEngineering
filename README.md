@@ -29,30 +29,26 @@ Lecture Notes, Synopsis, ... from the Computer Engineering BS at University of P
 
 ## Discrete Calculus
 * **Lecture Notes** - [Dispensa Matematica Discreta.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Discrete%20Calculus/Dispensa%20Matematica%20Discreta.pdf)
-* **Book** - [Libro Matematica discreta.pdf]()
-* **Book Exercises solutions** - [Soluzioni Esercizi Libro.pdf]()
+* **Book** - [Libro Matematica discreta.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Discrete%20Calculus/Libro%20Matematica%20discreta.pdf)
+* **Book Exercises solutions** - [Soluzioni Esercizi Libro.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Discrete%20Calculus/Soluzioni%20Esercizi%20Libro.pdf)
 
 ## Probability
-* **Lecture Notes** - [Riassunto Probabilità.pdf]()
-* **Oral Exam Questions with solutions** - [Domande Orale 2018.pdf]()
+* **Lecture Notes** - [Riassunto Probabilità.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Probability/Riassunto%20Probabilit%C3%A0.pdf)
+* **Oral Exam Questions with solutions** - [Domande Orale 2018.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Probability/Domande%20Orale%202018.pdf)
 
 ## Electronics
-* **Lecture Notes** - [Riassunto Elettronica.pdf]()
-* **Exams solutions OP.AMP.** - [Soluzioni Esami Op AMP.pdf]()
-* **Exams solutions DIODES** - [Soluzioni Esami Diodi.pdf]()
-* **Exams solutions MOSFET** - [Soluzioni Esami MOSFET.pdf]()
-* **Exams solutions DIFF. MOS** - [Soluzioni Esami MOS Differenziali.pdf]()
-* **Exams solutions CMOS** - [Soluzioni Esami CMOS.pdf]()
-* **SPICE Homework 1** - [Ivancich Stefano SPICE_1.pdf]()
-* **SPICE Homework 2** - [Ivancich Stefano SPICE_2.pdf]()
-* **SPICE Homework 3** - [Ivancich Stefano SPICE_3.pdf]()
+* **Lecture Notes** - [Riassunto Elettronica.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Electronics/Riassunto%20Elettronica.pdf)
+* **Exams solutions OP.AMP.** - [Soluzioni Esami Op AMP.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Electronics/Soluzioni%20Esami%20Op%20AMP.pdf)
+* **Exams solutions DIODES** - [Soluzioni Esami Diodi.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Electronics/Soluzioni%20Esami%20Diodi.pdf)
+* **Exams solutions MOSFET** - [Soluzioni Esami MOSFET.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Electronics/Soluzioni%20Esami%20MOSFET.pdf)
+* **Exams solutions DIFF. MOS** - [Soluzioni Esami MOS Differenziali.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Electronics/Soluzioni%20Esami%20MOS%20Differenziali.pdf)
+* **Exams solutions CMOS** - [Soluzioni Esami CMOS.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Electronics/Soluzioni%20Esami%20CMOS.pdf)
+* **SPICE Homework 1** - [Ivancich Stefano SPICE_1.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Electronics/Ivancich%20Stefano%20SPICE_1.pdf)
+* **SPICE Homework 2** - [Ivancich Stefano SPICE_2.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Electronics/Ivancich%20Stefano%20SPICE_2.pdf)
+* **SPICE Homework 3** - [Ivancich Stefano SPICE_3.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Electronics/Ivancich%20Stefano%20SPICE_3.pdf)
 
 ## Economy
-* **Lecture Notes** - [Riassunto Economia.pdf]()
-* **Esercizi bilancio** - [Esercizi bilancio.pdf]()
-
-
-
-## Economy
+* **Lecture Notes** - [Riassunto Economia.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Economy/Riassunto%20Economia.pdf)
+* **Esercizi bilancio** - [Esercizi bilancio.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Economy/Esercizi%20bilancio.pdf)
 
 
