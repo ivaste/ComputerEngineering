@@ -52,5 +52,5 @@ Lecture Notes, Synopsis, ... from the Computer Engineering BS at University of P
 * **Esercizi bilancio** - [Esercizi bilancio.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Economy/Esercizi%20bilancio.pdf)
 
 ## Thesis Example
-* **Thesis** - [Ivancich Stefano Thesis.pdf] (https://github.com/ivaste/AlzheimerPrediction/blob/master/Documentation/Ivancich%20Stefano%20Thesis.pdf)
-* **Presentation** - [Ivancich Stefano Presentation.pdf] (https://github.com/ivaste/AlzheimerPrediction/blob/master/Documentation/Ivancich%20Stefano%20Presentation.pdf)
+* **Thesis** - [Ivancich Stefano Thesis.pdf](https://github.com/ivaste/AlzheimerPrediction/blob/master/Documentation/Ivancich%20Stefano%20Thesis.pdf)
+* **Presentation** - [Ivancich Stefano Presentation.pdf](https://github.com/ivaste/AlzheimerPrediction/blob/master/Documentation/Ivancich%20Stefano%20Presentation.pdf)
