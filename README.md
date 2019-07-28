@@ -21,7 +21,7 @@ Lecture Notes, Synopsis, ... from the Computer Engineering BS at University of P
 ## Computer Networks
 * **Lecture Notes** - [Riassunto Reti.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Computer%20Networks/Riassunto%20Reti.pdf)
 * **Codes & Exams** - [Reti di calcolatori 2018.zip](https://github.com/ivaste/ComputerEngineering/blob/master/Computer%20Networks/Reti%20di%20calcolatori%202018.zip)
-* **All Exams Solved** - [reti-dei by nicomazz] (https://github.com/nicomazz/reti-dei)
+* **All Exams Solved** - [reti-dei by nicomazz](https://github.com/nicomazz/reti-dei)
 
 ## Artificial Intelligence
 * **Lecture Notes** - [Riassunto IA.pdf](https://github.com/ivaste/ComputerEngineering/blob/master/Artificial%20Intelligence/Riassunto%20IA.pdf)
